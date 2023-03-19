@@ -18,7 +18,7 @@ Example URL: `https://example.com/?add-to-cart=141:2,170:4`
 
 To install the plugin, follow these steps:
 
-1. Download the latest version of the plugin from the [GitHub repository](github.com/ramizbrain/woo-url-direct-checkout).
+1. Download the latest version of the plugin from the [GitHub repository](https://github.com/ramizbrain/woo-url-direct-checkout).
 2. Upload the plugin folder to the `wp-content/plugins/` directory of your WordPress site.
 3. Activate the plugin from the WordPress admin dashboard.
 
